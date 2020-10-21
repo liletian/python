@@ -7,7 +7,8 @@ for p in ports:
 import serial
 
 #s = serial.Serial('COM3')
-
+#ser=serial.open()
+#ser=serial.close()
 ser = serial.Serial('COM4', 115200, timeout=1)
 
 ser.write(str.encode('w0103'))
@@ -18,8 +19,8 @@ ser.write(str.encode('r'))
 ser.write(str.encode('06'))
 a=ser.read(2)
 
-
-
+#a=ser.readline()
+#a=ser.close()
 
 
 
