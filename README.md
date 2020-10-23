@@ -4,4 +4,5 @@
 3. python get-pip.py
 4. python -m pip install --upgrade pip
 5. python -m pip install --upgrade pip
-
+6. pip install pytest
+7. pip install requests
