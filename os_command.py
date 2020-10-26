@@ -1,3 +1,5 @@
+#python -c "import os, sys; print(os.path.dirname(sys.executable))"#
+
 import os
 os.chdir(path)
 print("Current Working Directory " , os.getcwd())
