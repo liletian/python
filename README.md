@@ -6,3 +6,4 @@
 5. python -m pip install --upgrade pip
 6. pip install pytest
 7. pip install requests
+8. pip install --user pipx
