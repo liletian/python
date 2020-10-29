@@ -7,6 +7,7 @@
 6. pip install pytest
 7. pip install requests
 8. pip install --user pipx
+9. help(object)
 
 dir(object)
 
