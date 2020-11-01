@@ -14,7 +14,8 @@
 14. pip install matplotlib
 15. pip install pandas
 16. pip install seaborn
-17. 
+17. pipenv shell
+18. jupyter notebook
 dir(object)
 
 For many objects, you can use this code, replacing 'object' with the object you're interested in: object_methods = [method_name for method_name in dir(object)if callable(getattr(object, method_name))]
