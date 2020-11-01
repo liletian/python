@@ -18,6 +18,12 @@
 18. jupyter notebook
 19. ptpython
 20. pipenv lock
+21. pipenv graph
+22. pipenv graph --reverse
+23. pipenv open flask
+24. pipenv check
+25. pipenv --venv
+26. pipenv --where
 dir(object)
 
 For many objects, you can use this code, replacing 'object' with the object you're interested in: object_methods = [method_name for method_name in dir(object)if callable(getattr(object, method_name))]
