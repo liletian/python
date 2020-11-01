@@ -12,3 +12,4 @@
 dir(object)
 
 For many objects, you can use this code, replacing 'object' with the object you're interested in: object_methods = [method_name for method_name in dir(object)if callable(getattr(object, method_name))]
+gist.github.com
