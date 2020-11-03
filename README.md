@@ -26,6 +26,8 @@
 26. pipenv --where
 27. pipenv install numpy
 28. pyqt 
+29. pip install pypiwin32
+
 
 
 https://github.com/Tebs-Lab/intro-to-deep-learning
