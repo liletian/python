@@ -1,6 +1,6 @@
 import numpy as np
 from plot_zplane import zplane 
-inport signal
+import signal
 a = np.array([1.0])
 b = np.array([1.9,-1.9])
 zplane(b,a)
