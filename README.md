@@ -27,6 +27,7 @@
 27. pipenv install numpy
 28. pyqt 
 29. pip install pypiwin32
+30. pip install --upgrade ipykernel
 
 
 
