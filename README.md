@@ -36,6 +36,9 @@ https://github.com/Tebs-Lab/intro-to-deep-learning
 
 https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/books/deep-learning-design-patterns/Workshops/Novice
 
+python source code
+https://github.com/python/cpython
+
 
 
 dir(object)
