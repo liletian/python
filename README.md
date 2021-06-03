@@ -38,6 +38,7 @@ https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/bo
 
 python source code
 https://github.com/python/cpython
+https://realpython.com/cpython-source-code-guide/#what-does-a-compiler-do
 
 
 
