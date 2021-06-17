@@ -29,6 +29,8 @@
 29. pip install pypiwin32
 30. pip install --upgrade ipykernel
 31. python manage.py runserver
+32. django-admin startproject django_project
+33. django-admin
 
 
 https://github.com/Tebs-Lab/intro-to-deep-learning
