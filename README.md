@@ -28,7 +28,7 @@
 28. pyqt 
 29. pip install pypiwin32
 30. pip install --upgrade ipykernel
-
+31. python manage.py runserver
 
 
 https://github.com/Tebs-Lab/intro-to-deep-learning
