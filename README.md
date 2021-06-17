@@ -31,6 +31,7 @@
 31. python manage.py runserver
 32. django-admin startproject django_project
 33. django-admin
+34. manage.py startapp blog
 
 
 https://github.com/Tebs-Lab/intro-to-deep-learning
