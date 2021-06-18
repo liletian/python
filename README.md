@@ -32,7 +32,8 @@
 32. django-admin startproject django_project
 33. django-admin
 34. manage.py startapp blog
-
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
+def save(self, **kwargs):
 
 https://github.com/Tebs-Lab/intro-to-deep-learning
 
