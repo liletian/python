@@ -48,6 +48,23 @@ https://realpython.com/cpython-source-code-guide/#what-does-a-compiler-do
 
 dir(object)
 
+
+python on mac tips
+
+1. tensor flow mac need a plug-in
+   https://developer.apple.com/metal/tensorflow-plugin/
+2. mac os python direct installation
+   https://www.python.org/downloads/macos/
+3. jupyter notebook installation
+   https://jupyter.org/install
+4. python install with version specified
+   pip install -Iv tensorflow==1.5
+   pip install -Iv numpy==1.13
+5. which -a jupyter
+6. open jupyter notebook with specific python version
+   /usr/local/opt/python@3.8/bin/python3 -m notebook
+   python3 -m notebook
+   
 For many objects, you can use this code, replacing 'object' with the object you're interested in: object_methods = [method_name for method_name in dir(object)if callable(getattr(object, method_name))]
 gist.github.com
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem (registry editor) LongPathsEnabled
