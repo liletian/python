@@ -64,6 +64,8 @@ python on mac tips
 6. open jupyter notebook with specific python version
    /usr/local/opt/python@3.8/bin/python3 -m notebook
    python3 -m notebook
+
+7. If you're using macOS go to Macintosh HD > Applications > Python3.6 folder (or whatever version of python you're using) > double click on "Install Certificates.command" file. 
    
 For many objects, you can use this code, replacing 'object' with the object you're interested in: object_methods = [method_name for method_name in dir(object)if callable(getattr(object, method_name))]
 gist.github.com
